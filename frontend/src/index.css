@@ -1,0 +1,25 @@
+.m-primary {
+  color: #fefefe
+}
+
+.m-secondary {
+  color: #5e535e
+}
+
+.m-heading{
+    margin: 3rem;
+    /* padding-left: 3rem; */
+    margin-bottom: 4rem; 
+    color: #fefefe;
+    font-size: 40px;
+    font-weight: bolder ;
+}
+.m-scrollbar {
+  overflow-y: auto;
+  min-height: 100vh;
+  scrollbar-color: #5e5e5e #1e1e1e;
+}
+
+.m-background{
+  background-color: #1e1e1e;
+}

@@ -1,0 +1,22 @@
+.context-menu{
+    position: fixed; 
+    min-width: 100px; 
+    z-index: 50;
+    padding: 0.5rem; 
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.context-option{ 
+    color: #fefefe80;
+    padding-left: 0.5rem; 
+    padding-right: 0.5rem; 
+    padding-top: 0.25rem; 
+    padding-bottom: 0.25rem; 
+    user-select: none;
+    cursor: pointer;
+}
+
+.context-option:hover{ 
+    color: #fefefe;
+}

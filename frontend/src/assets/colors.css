@@ -1,0 +1,33 @@
+:root{
+    --green: #000, 
+    --red: red, 
+    --blue: blue, 
+    --orange: orange, 
+}
+
+.c-border-green{
+    /* border-color: var(--green); */
+    border-color: #48fa7e;
+}
+.c-border-cyan{
+    border-color: #00b5fd;
+}
+.c-border-red{
+    border-color: #fa6262;
+}
+.c-border-orange{
+    border-color: #feb261;
+}
+.c-green{
+    /* color: var(--green); */
+    color: #48fa7e;
+}
+.c-cyan{
+    color: #00b5fd;
+}
+.c-red{
+    color: #fa6262;
+}
+.c-orange{
+    color: #feb261;
+}
